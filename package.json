@@ -4,6 +4,8 @@
   "description": "Email for Addidas adv",
   "main": "index.js",
   "scripts": {
+    "build": "webpack",
+    "start": "webpack serve",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -17,5 +19,12 @@
   "bugs": {
     "url": "https://github.com/andreiyakovliev/adidas-emailify/issues"
   },
-  "homepage": "https://github.com/andreiyakovliev/adidas-emailify#readme"
+  "homepage": "https://github.com/andreiyakovliev/adidas-emailify#readme",
+  "devDependencies": {
+    "file-loader": "^6.2.0",
+    "html-loader": "^5.1.0",
+    "html-webpack-plugin": "^5.6.3",
+    "webpack": "^5.98.0",
+    "webpack-cli": "^6.0.1"
+  }
 }
