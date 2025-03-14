@@ -1,0 +1,21 @@
+{
+  "name": "adidas-emailify",
+  "version": "1.0.0",
+  "description": "Email for Addidas adv",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andreiyakovliev/adidas-emailify.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/andreiyakovliev/adidas-emailify/issues"
+  },
+  "homepage": "https://github.com/andreiyakovliev/adidas-emailify#readme"
+}
